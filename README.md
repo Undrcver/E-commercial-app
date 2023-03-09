@@ -11,8 +11,8 @@ This is an application that was created using express.js. A full combination of 
 
 ## pictures
 
-![NoteTaker](notetaker.png)
-![Notes](notes.png)
+![Main](Capture.PNG)
+![Notes](Capture-2.PNG)
 
 ## Deployment
 
